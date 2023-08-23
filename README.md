@@ -1,7 +1,7 @@
-**Acknowledgement: Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Behrouz Maham, Theodoros A. Tsiftsis, "Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model," in Proc. the IEEE International Conference on Communications (ICC): Communication QoS, Reliability and Modeling Symposium, May 2023.**
+**Acknowledgement:** 
+*Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Behrouz Maham, Theodoros A. Tsiftsis, "Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model," in Proc. the IEEE International Conference on Communications (ICC): Communication QoS, Reliability and Modeling Symposium, May 2023.*
 
-# AoI-Vacation-Model
- Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model
+# Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model
 
 
 ## Abstract: 
@@ -13,3 +13,6 @@ set of source nodes and according to a Poisson process, while their service time
 decomposition and the Laplace-Stieltjes transform, we derive the average AoI(AAoI) expression for the multi-source M/G/1 queueing
 model with generally-distributed vacation time in closed form. Our numerical simulations validate the accuracy of the derived AAoI
 expression and assess the impact of different parameters on the system performance.
+
+
+## You can find the paper [here](https://www.researchgate.net/publication/367272398_Age_of_Information_in_Multi-Source_Updating_Systems_An_MG1_Vacation_Queueing_Model).
