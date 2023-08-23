@@ -1,4 +1,4 @@
-**Acknowledgement: Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Behrouz Maham, Theodoros A. Tsiftsis, "Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model," in Proc. the IEEE International Conference on Communications (ICC): Communication QoS, Reliability and Modeling Symposium, May 2023. **
+**Acknowledgement: Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Behrouz Maham, Theodoros A. Tsiftsis, "Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model," in Proc. the IEEE International Conference on Communications (ICC): Communication QoS, Reliability and Modeling Symposium, May 2023.**
 
 # AoI-Vacation-Model
  Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model
