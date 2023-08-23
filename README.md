@@ -1,10 +1,10 @@
 **Acknowledgement:** 
 *Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Behrouz Maham, Theodoros A. Tsiftsis, "Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model," in Proc. the IEEE International Conference on Communications (ICC): Communication QoS, Reliability and Modeling Symposium, May 2023.*
 
-# Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model
+## Age of Information in Multi-Source Updating Systems: An M/G/1 Vacation Queueing Model
 
 
-## Abstract: 
+### Abstract: 
 Concurrent with the rise of real-time wireless systems enabled by the Internet of Things, the age of information (AoI) has
 been widely perceived as a crucial destination-centric performance metric to quantify the timeliness of data delivery. This paper deals
 with the analysis of information freshness in a multi-source M/G/1 queueing system with utilization of idle server time, referred to
@@ -15,4 +15,4 @@ model with generally-distributed vacation time in closed form. Our numerical sim
 expression and assess the impact of different parameters on the system performance.
 
 
-## You can find the paper [here](https://www.researchgate.net/publication/367272398_Age_of_Information_in_Multi-Source_Updating_Systems_An_MG1_Vacation_Queueing_Model).
+### **You can find the paper [here](https://www.researchgate.net/publication/367272398_Age_of_Information_in_Multi-Source_Updating_Systems_An_MG1_Vacation_Queueing_Model).**
